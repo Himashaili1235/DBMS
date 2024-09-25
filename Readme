@@ -1,10 +1,10 @@
-# Online Blood Donation Management System
+# **Online Blood Donation Management System**
 
-## Project Description
+## **Project Description**
 
 The **Online Blood Donation Management System** is a web-based platform designed to simplify the process of blood donations by facilitating the connection between donors, hospitals, and blood banks. Donors can register, manage their profiles, schedule appointments with hospitals, and track their donation history. Hospitals can manage their blood stock, monitor blood requirements, and schedule donation drives. The platform ensures secure, efficient, and streamlined management of blood donation operations.
 
-## Features
+## **Features**
 
 - **Donor Registration and Management**: Allows donors to register and update personal information, blood type, contact details, and medical history.
 - **Hospital Management**: Hospitals can register and maintain blood stock levels and schedule blood drives.
@@ -13,22 +13,22 @@ The **Online Blood Donation Management System** is a web-based platform designed
 - **Blood Stock Management**: Hospitals can manage and monitor blood stock and requirements.
 - **Admin Dashboard**: Access to donor, hospital, and appointment data for administrative purposes.
 
-## Technologies Used
+## **Technologies Used**
 
-### Backend
+### **Backend**
 - **PHP**: Server-side logic and handling for user authentication, registration, appointments, etc.
 - **MySQL**: Database to store donor, hospital, and appointment data.
 - **phpMyAdmin**: Database management interface.
 
-### Frontend
+### **Frontend**
 - **HTML/CSS**: Structuring and styling the user interface.
 - **JavaScript**: Handling client-side interactions.
 
-### Development Tools
+### **Development Tools**
 - **XAMPP**: Local server environment (Apache, MySQL, PHP).
 - **Visual Studio Code**: Code editor for development.
 
-## Database Structure
+## **Database Structure**
 
 1. **Donors Table**: Stores information about registered donors, including name, blood type, contact info, and medical history.
 2. **Hospitals Table**: Stores details about hospitals, including location and blood requirements.
