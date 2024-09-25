@@ -1,35 +1,38 @@
-# **Online Blood Donation Management System**
+Online Blood Donation Management System
+Project Description
+The Online Blood Donation Management System simplifies blood donation by connecting donors, hospitals, and blood banks. Donors can register, manage profiles, schedule appointments, and track their history. Hospitals manage blood stock, monitor requirements, and organize blood drives, ensuring efficient and secure operations.
 
-## **Project Description**
-
-The **Online Blood Donation Management System** is a web-based platform designed to simplify the process of blood donations by facilitating the connection between donors, hospitals, and blood banks. Donors can register, manage their profiles, schedule appointments with hospitals, and track their donation history. Hospitals can manage their blood stock, monitor blood requirements, and schedule donation drives. The platform ensures secure, efficient, and streamlined management of blood donation operations.
-
-## **Features**
-
-- **Donor Registration and Management**: Allows donors to register and update personal information, blood type, contact details, and medical history.
-- **Hospital Management**: Hospitals can register and maintain blood stock levels and schedule blood drives.
-- **Appointment Scheduling**: Donors can schedule appointments for blood donation with hospitals.
-- **Secure Authentication**: Login and session management for donors and hospital administrators.
-- **Blood Stock Management**: Hospitals can manage and monitor blood stock and requirements.
-- **Admin Dashboard**: Access to donor, hospital, and appointment data for administrative purposes.
-
-## **Technologies Used**
-
-### **Backend**
-- **PHP**: Server-side logic and handling for user authentication, registration, appointments, etc.
-- **MySQL**: Database to store donor, hospital, and appointment data.
-- **phpMyAdmin**: Database management interface.
-
-### **Frontend**
-- **HTML/CSS**: Structuring and styling the user interface.
-- **JavaScript**: Handling client-side interactions.
-
-### **Development Tools**
-- **XAMPP**: Local server environment (Apache, MySQL, PHP).
-- **Visual Studio Code**: Code editor for development.
-
-## **Database Structure**
-
-1. **Donors Table**: Stores information about registered donors, including name, blood type, contact info, and medical history.
-2. **Hospitals Table**: Stores details about hospitals, including location and blood requirements.
-3. **Appointments Table**: Manages donor appointments with hospitals.
+Domain
+Web Application Development
+Healthcare
+Sub-Domain
+Donation Management Systems
+User Authentication
+Features
+Donor Registration: Donors can register, update profiles, and track donation history.
+Hospital Management: Hospitals can manage blood stock and organize blood donation drives.
+Appointment Scheduling: Donors can book appointments with hospitals.
+Blood Stock Management: Hospitals monitor blood stock and donation needs.
+Secure Authentication: Login and session management for users.
+Admin Dashboard: Access to data on donors, hospitals, and appointments.
+Tech Stack
+Backend
+PHP: Server-side functionality.
+MySQL: Data storage for donors, hospitals, and appointments.
+phpMyAdmin: Database management.
+Frontend
+HTML/CSS: Layout and styling.
+JavaScript: Interactive elements.
+Development Tools
+XAMPP: Local development environment.
+Visual Studio Code: Code editor.
+Database Structure
+Donors Table: Contains donor information (name, blood type, medical history).
+Hospitals Table: Stores hospital details (location, blood requirements).
+Appointments Table: Tracks donor appointments with hospitals.
+Implementation Steps
+Set up XAMPP and configure the server.
+Create a database in phpMyAdmin for donors, hospitals, and appointments.
+Implement backend in PHP for registration, login, and appointments.
+Develop frontend using HTML, CSS, and JavaScript.
+Connect backend and frontend for dynamic interaction.
