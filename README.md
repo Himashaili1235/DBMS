@@ -28,7 +28,7 @@ VitaFlow is a web-based platform designed to connect blood donors, receivers, an
 | `Donor`               | `DonorId`, `DonorName`, `BloodGroupId`, `Age`, `Email`, `Phone`, `Password`                       |
 | `Receiver`            | `ReceiverId`, `ReceiverName`, `BloodGroupId`, `DonorId`, `Age`, `Email`, `Phone`, `Password`      |
 | `BloodGroup`          | `BloodGroupId`, `BloodType`                                                                      |
-| `BloodGroupRequests`  | `RequestId`, `BloodGroupId`, `ReceiverId`, `RequestDate'                                |
+| `BloodGroupRequests`  | `RequestId`, `BloodGroupId`, `ReceiverId`, `Receivername`, `Donorname`, `Receiverphone`                              |
 
 ## **Setup Instructions**
 ### **Prerequisites**
