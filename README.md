@@ -43,3 +43,14 @@ VitaFlow is a web-based platform designed to connect blood donors, receivers, an
    $username = 'root';
    $password = '';
    $database = 'vitaflow';
+   
+### ** Running the Application**
+Start Apache and MySQL services in XAMPP.
+Place the project folder in the htdocs directory.
+Open the application in your browser at http://localhost/<project-folder>.
+### ** Future Enhancements**
+Mobile Application Integration: Provide access on-the-go for donors and receivers.
+Predictive Analytics: Use AI to forecast future blood demand.
+Geolocation-Based Matching: Match donors and receivers based on proximity.
+Blockchain Integration: Securely manage data transactions and records.
+
